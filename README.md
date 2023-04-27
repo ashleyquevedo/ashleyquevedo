@@ -1,4 +1,4 @@
-# About me
+# About me 🪐👩🏻‍💻📚
 
 I'm a full stack software engineer who is enthusiastic about education in all forms—I have a background in education and am excited by all opportunities to expand my software development skills! I aspire to build software that helps people connect with each other, overcome challenges, and consistently learn more about the world.  
   
@@ -15,6 +15,10 @@ I'm a full stack software engineer who is enthusiastic about education in all fo
 **Exposed to:**
 
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+
+## 📊 Github Stats 📊
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashleyquevedo&theme=tokyonight&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact me:
 
