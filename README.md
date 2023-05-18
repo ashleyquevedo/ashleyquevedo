@@ -4,6 +4,8 @@ I'm a full stack software engineer who is enthusiastic about education in all fo
 
 View my portfolio site at [ashleyquevedo.com](https://www.ashleyquevedo.com/)!
 
+Connect with me on [LinkedIn](https://www.linkedin.com/in/ashleyquevedo/) to chat about responsive design, accessibility in software development, and more!
+
 <br>
 
 ## Featured Projects:
@@ -63,7 +65,3 @@ View my portfolio site at [ashleyquevedo.com](https://www.ashleyquevedo.com/)!
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashleyquevedo&theme=tokyonight&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
-
-## Contact me:
-
-Connect with me on [LinkedIn](https://www.linkedin.com/in/ashleyquevedo/) to chat about responsive design, accessibility in software development, and more!
